@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs
+/BannerflowTest.API/bin
+/BannerflowTest.API/obj
+/BannerflowTest.Data/bin
+/BannerflowTest.Data/obj
+/BannerflowTest.Domain/bin
+/BannerflowTest.Domain/obj
+/BannerflowTest.Tests/bin/Debug/netcoreapp2.2
+/BannerflowTest.Tests/obj
